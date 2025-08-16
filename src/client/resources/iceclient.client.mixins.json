@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "icy26.iceclient.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"FastBreak",
+		"InfiniteFly"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

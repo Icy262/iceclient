@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "icy26.iceclient.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
